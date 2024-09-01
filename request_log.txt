@@ -1,0 +1,193 @@
+2024-08-31 15:43:34,319 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 15:43:34,319 - [33mPress CTRL+C to quit[0m
+2024-08-31 15:43:34,370 -  * Restarting with stat
+2024-08-31 15:43:35,162 -  * Debugger is active!
+2024-08-31 15:43:35,168 -  * Debugger PIN: 123-050-739
+2024-08-31 15:50:39,760 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\__init__.py', reloading
+2024-08-31 15:50:39,837 -  * Restarting with stat
+2024-08-31 15:50:40,380 -  * Debugger is active!
+2024-08-31 15:50:40,387 -  * Debugger PIN: 123-050-739
+2024-08-31 15:51:16,727 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 15:51:16,727 - [33mPress CTRL+C to quit[0m
+2024-08-31 15:51:16,729 -  * Restarting with stat
+2024-08-31 15:51:17,361 -  * Debugger is active!
+2024-08-31 15:51:17,365 -  * Debugger PIN: 123-050-739
+2024-08-31 16:21:57,158 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 16:21:57,158 - [33mPress CTRL+C to quit[0m
+2024-08-31 16:21:57,160 -  * Restarting with stat
+2024-08-31 16:21:57,586 -  * Debugger is active!
+2024-08-31 16:21:57,591 -  * Debugger PIN: 123-050-739
+2024-08-31 16:29:20,622 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 16:29:20,783 -  * Restarting with stat
+2024-08-31 16:29:21,948 -  * Debugger is active!
+2024-08-31 16:29:21,956 -  * Debugger PIN: 123-050-739
+2024-08-31 16:29:32,266 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 16:29:32,331 -  * Restarting with stat
+2024-08-31 16:29:32,919 -  * Debugger is active!
+2024-08-31 16:29:32,924 -  * Debugger PIN: 123-050-739
+2024-08-31 17:21:23,854 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\routes\\auth.py', reloading
+2024-08-31 17:21:23,926 -  * Restarting with stat
+2024-08-31 17:21:24,462 -  * Debugger is active!
+2024-08-31 17:21:24,467 -  * Debugger PIN: 123-050-739
+2024-08-31 17:26:01,358 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 17:26:01,359 - [33mPress CTRL+C to quit[0m
+2024-08-31 17:26:01,360 -  * Restarting with stat
+2024-08-31 17:26:01,876 -  * Debugger is active!
+2024-08-31 17:26:01,880 -  * Debugger PIN: 123-050-739
+2024-08-31 17:31:09,351 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\routes\\tasks.py', reloading
+2024-08-31 17:31:09,595 -  * Restarting with stat
+2024-08-31 17:31:10,368 -  * Debugger is active!
+2024-08-31 17:31:10,376 -  * Debugger PIN: 123-050-739
+2024-08-31 17:32:02,146 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 17:32:02,146 - [33mPress CTRL+C to quit[0m
+2024-08-31 17:32:02,150 -  * Restarting with stat
+2024-08-31 17:32:03,426 -  * Debugger is active!
+2024-08-31 17:32:03,434 -  * Debugger PIN: 123-050-739
+2024-08-31 20:47:48,325 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 20:47:48,395 -  * Restarting with stat
+2024-08-31 20:47:48,975 -  * Debugger is active!
+2024-08-31 20:47:48,981 -  * Debugger PIN: 123-050-739
+2024-08-31 20:48:28,611 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 20:48:28,927 -  * Restarting with stat
+2024-08-31 20:48:30,059 -  * Debugger is active!
+2024-08-31 20:48:30,066 -  * Debugger PIN: 123-050-739
+2024-08-31 20:49:07,698 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 20:49:07,863 -  * Restarting with stat
+2024-08-31 20:49:09,726 -  * Debugger is active!
+2024-08-31 20:49:09,733 -  * Debugger PIN: 123-050-739
+2024-08-31 20:50:07,696 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 20:50:07,696 - [33mPress CTRL+C to quit[0m
+2024-08-31 20:50:07,700 -  * Restarting with stat
+2024-08-31 20:50:08,452 -  * Debugger is active!
+2024-08-31 20:50:08,462 -  * Debugger PIN: 123-050-739
+2024-08-31 20:51:28,933 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 20:51:29,036 -  * Restarting with stat
+2024-08-31 20:51:29,605 -  * Debugger is active!
+2024-08-31 20:51:29,610 -  * Debugger PIN: 123-050-739
+2024-08-31 20:51:51,039 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 20:51:51,193 -  * Restarting with stat
+2024-08-31 20:51:52,005 -  * Debugger is active!
+2024-08-31 20:51:52,012 -  * Debugger PIN: 123-050-739
+2024-08-31 20:58:52,395 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 20:58:52,619 -  * Restarting with stat
+2024-08-31 20:59:22,350 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 20:59:22,350 - [33mPress CTRL+C to quit[0m
+2024-08-31 20:59:22,352 -  * Restarting with stat
+2024-08-31 20:59:23,290 -  * Debugger is active!
+2024-08-31 20:59:23,305 -  * Debugger PIN: 123-050-739
+2024-08-31 21:11:31,366 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 21:11:31,422 -  * Restarting with stat
+2024-08-31 21:11:31,940 -  * Debugger is active!
+2024-08-31 21:11:31,947 -  * Debugger PIN: 123-050-739
+2024-08-31 21:11:49,069 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 21:11:49,069 - [33mPress CTRL+C to quit[0m
+2024-08-31 21:11:49,071 -  * Restarting with stat
+2024-08-31 21:11:49,633 -  * Debugger is active!
+2024-08-31 21:11:49,639 -  * Debugger PIN: 123-050-739
+2024-08-31 21:14:07,134 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 21:14:07,220 -  * Restarting with stat
+2024-08-31 21:14:07,898 -  * Debugger is active!
+2024-08-31 21:14:07,906 -  * Debugger PIN: 123-050-739
+2024-08-31 21:14:11,757 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 21:14:11,757 - [33mPress CTRL+C to quit[0m
+2024-08-31 21:14:11,759 -  * Restarting with stat
+2024-08-31 21:14:12,338 -  * Debugger is active!
+2024-08-31 21:14:12,343 -  * Debugger PIN: 123-050-739
+2024-08-31 21:15:22,989 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 21:15:22,990 - [33mPress CTRL+C to quit[0m
+2024-08-31 21:15:22,991 -  * Restarting with stat
+2024-08-31 21:15:23,410 -  * Debugger is active!
+2024-08-31 21:15:23,415 -  * Debugger PIN: 123-050-739
+2024-08-31 21:16:29,090 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-31 21:16:29,090 - [33mPress CTRL+C to quit[0m
+2024-08-31 21:16:29,092 -  * Restarting with stat
+2024-08-31 21:16:29,924 -  * Debugger is active!
+2024-08-31 21:16:29,931 -  * Debugger PIN: 123-050-739
+2024-08-31 21:16:33,980 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/tasks/add_task', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '31e95eac-8833-44b2-86cc-89a00c1579c7', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '59'}, 'body': '\r\n{\r\n    "name": "banan50000",\r\n    "title": "S.W"\r\n}\r\n\r\n\r\n'}
+2024-08-31 21:16:33,981 - Response: {'status_code': 200, 'duration': '0:00:00.002003'}
+2024-08-31 21:16:33,982 - 127.0.0.1 - - [31/Aug/2024 21:16:33] "POST /tasks/add_task HTTP/1.1" 200 -
+2024-08-31 21:16:51,334 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\models\\db.py', reloading
+2024-08-31 21:16:51,562 -  * Restarting with stat
+2024-08-31 21:16:52,487 -  * Debugger is active!
+2024-08-31 21:16:52,494 -  * Debugger PIN: 123-050-739
+2024-08-31 21:16:57,834 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/tasks/add_task', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '2bfc262c-f8f5-48c3-b5ed-834ff754bbc6', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '59'}, 'body': '\r\n{\r\n    "name": "banan50000",\r\n    "title": "S.W"\r\n}\r\n\r\n\r\n'}
+2024-08-31 21:16:57,874 - Response: {'status_code': 200, 'duration': '0:00:00.038088'}
+2024-08-31 21:16:57,875 - 127.0.0.1 - - [31/Aug/2024 21:16:57] "POST /tasks/add_task HTTP/1.1" 200 -
+2024-08-31 21:17:18,665 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/tasks/data', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': 'edf42346-d655-4bd3-b75e-a732bd955d1c', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-08-31 21:17:18,680 - Response: {'status_code': 200, 'duration': '0:00:00.015707'}
+2024-08-31 21:17:18,680 - 127.0.0.1 - - [31/Aug/2024 21:17:18] "GET /tasks/data HTTP/1.1" 200 -
+2024-08-31 21:17:23,791 - Request: {'method': 'PUT', 'url': 'http://127.0.0.1:5000/tasks/update_task/3', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '8eff2664-5c3d-485e-a6cb-7092efeea847', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '60'}, 'body': '{\r\n    \r\n    "id": 3,\r\n    "olor": "bown"\r\n    \r\n    }\r\n\r\n\r\n'}
+2024-08-31 21:17:23,794 - Response: {'status_code': 200, 'duration': '0:00:00.004011'}
+2024-08-31 21:17:23,794 - 127.0.0.1 - - [31/Aug/2024 21:17:23] "PUT /tasks/update_task/3 HTTP/1.1" 200 -
+2024-08-31 21:17:28,690 - Request: {'method': 'DELETE', 'url': 'http://127.0.0.1:5000/tasks/delete_task/7', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '06a2e9c3-ab98-4cf2-ad18-6b7c4cf16a3c', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-08-31 21:17:28,694 - Response: {'status_code': 200, 'duration': '0:00:00.005554'}
+2024-08-31 21:17:28,695 - 127.0.0.1 - - [31/Aug/2024 21:17:28] "DELETE /tasks/delete_task/7 HTTP/1.1" 200 -
+2024-08-31 21:17:36,958 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/todo', 'headers': {'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJhbmFuNDQ0NDQ1MDAiLCJpYXQiOjE3MjQyNDQ2NzgsImV4cCI6MTcyNDI0ODI3OH0.TmO54doUWL0fErKFKtG6GkQ7-Fo1WFt3SykDD5En-B4', 'X-Forwards-For': '127.0.0.1', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '258be714-78a3-4b1f-a035-8cc4045e5ee5', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-08-31 21:17:36,958 - Response: {'status_code': 200, 'duration': '0:00:00'}
+2024-08-31 21:17:36,959 - 127.0.0.1 - - [31/Aug/2024 21:17:36] "GET /todo HTTP/1.1" 200 -
+2024-08-31 21:17:43,092 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/login', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '63c30aba-59d8-4514-a5d2-fddaf15edaba', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '55'}, 'body': '{\r\n    "user": "banan20",\r\n    "password": "123"\r\n\r\n\r\n}'}
+2024-08-31 21:17:43,099 - Response: {'status_code': 200, 'duration': '0:00:00.007566'}
+2024-08-31 21:17:43,100 - 127.0.0.1 - - [31/Aug/2024 21:17:43] "POST /auth/login HTTP/1.1" 200 -
+2024-08-31 21:17:47,981 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/logout', 'headers': {'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyMzM2OTcxOSwianRpIjoiNmRhOTcwYzktZjdiNy00ZjAzLWEwZDMtOTQ4YjZmMGRhZDdmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuIiwibmJmIjoxNzIzMzY5NzE5LCJjc3JmIjoiYTI2YzQ3MWMtYWY5NS00NDBmLWIxNDgtZjNlMTJjN2ZjZDE3IiwiZXhwIjoxNzIzMzcwNjE5fQ.-n1czVqXJRgO9bnaJuMhw2pKLcZIwEIn0aZF7j0OsQQ', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '9e556ebe-ac71-4591-8eb4-5dae91932a9d', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '0'}, 'body': ''}
+2024-08-31 21:17:47,982 - Response: {'status_code': 404, 'duration': '0:00:00.001007'}
+2024-08-31 21:17:47,983 - 127.0.0.1 - - [31/Aug/2024 21:17:47] "[33mPOST /logout HTTP/1.1[0m" 404 -
+2024-08-31 21:17:52,973 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/signup', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '84a05ebc-ae89-4c00-9109-1dac169dd18a', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '95'}, 'body': '{\r\n    "user": "banan1111111110",\r\n    "email": "bnsh@gmail.com",\r\n    "password": "123"\r\n\r\n\r\n}'}
+2024-08-31 21:17:52,983 - Response: {'status_code': 302, 'duration': '0:00:00.010003'}
+2024-08-31 21:17:52,984 - 127.0.0.1 - - [31/Aug/2024 21:17:52] "[32mPOST /auth/signup HTTP/1.1[0m" 302 -
+2024-08-31 21:17:52,991 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/auth/signup_success', 'headers': {'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '84a05ebc-ae89-4c00-9109-1dac169dd18a', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Referer': 'http://127.0.0.1:5000/auth/signup', 'Host': '127.0.0.1:5000'}, 'body': ''}
+2024-08-31 21:17:52,992 - Response: {'status_code': 200, 'duration': '0:00:00.000998'}
+2024-08-31 21:17:52,992 - 127.0.0.1 - - [31/Aug/2024 21:17:52] "GET /auth/signup_success HTTP/1.1" 200 -
+2024-09-01 07:27:01,124 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-01 07:27:01,124 - [33mPress CTRL+C to quit[0m
+2024-09-01 07:27:01,125 -  * Restarting with stat
+2024-09-01 07:27:01,737 -  * Debugger is active!
+2024-09-01 07:27:01,744 -  * Debugger PIN: 123-050-739
+2024-09-01 07:27:10,313 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/login', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': 'a4a206fc-81ee-4569-a19c-80e5e4363888', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '55'}, 'body': '{\r\n    "user": "banan20",\r\n    "password": "123"\r\n\r\n\r\n}'}
+2024-09-01 07:27:10,325 - Response: {'status_code': 200, 'duration': '0:00:00.013003'}
+2024-09-01 07:27:10,326 - 127.0.0.1 - - [01/Sep/2024 07:27:10] "POST /auth/login HTTP/1.1" 200 -
+2024-09-01 07:27:35,767 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/auth/dashboard', 'headers': {'Authorization': 'Bearer     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NDgzMCwianRpIjoiMTcyZTM4YjYtZWNjMy00MzgyLWI1ZGMtZGUyZjA0ZjRiNjlkIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjQ4MzAsImNzcmYiOiI1Y2Q4MWZhYi1jOTVlLTQ5OGQtYjgwMC1mZWZlOTYzMzkyN2YiLCJleHAiOjE3MjUxNjU3MzB9.uPJ2E87MkfKaIlQVi9jjKIAsPFhRQR9sqjuLX_iZQJM', 'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '6b993300-00a6-49e0-8391-97995609cb8c', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-09-01 07:27:35,768 - Response: {'status_code': 404, 'duration': '0:00:00.000999'}
+2024-09-01 07:27:35,769 - 127.0.0.1 - - [01/Sep/2024 07:27:35] "[33mGET /auth/dashboard HTTP/1.1[0m" 404 -
+2024-09-01 07:28:42,998 -  * Detected change in 'C:\\Users\\Banan Shatara\\FlaskApp\\todolistapp - Copy\\app\\routes\\auth.py', reloading
+2024-09-01 07:28:43,107 -  * Restarting with stat
+2024-09-01 07:28:43,669 -  * Debugger is active!
+2024-09-01 07:28:43,674 -  * Debugger PIN: 123-050-739
+2024-09-01 07:29:35,453 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/login', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '34e35d34-9cee-45e3-9126-d3df8f3a4035', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '55'}, 'body': '{\r\n    "user": "banan20",\r\n    "password": "123"\r\n\r\n\r\n}'}
+2024-09-01 07:29:35,464 - Response: {'status_code': 200, 'duration': '0:00:00.012007'}
+2024-09-01 07:29:35,465 - 127.0.0.1 - - [01/Sep/2024 07:29:35] "POST /auth/login HTTP/1.1" 200 -
+2024-09-01 07:29:54,098 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/auth/dashboard', 'headers': {'Authorization': 'Bearer     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NDk3NSwianRpIjoiNjczZWQ3NWMtNjNlMC00MjVhLTlhOTYtMDQzZTFmOTc2Y2MzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjQ5NzUsImNzcmYiOiJiMDRkMjc4NC0zMzRiLTQ0YzctYjA3Zi0xOTkwNjkwZDM5ZDEiLCJleHAiOjE3MjUxNjU4NzV9.PrQi-ash2mWWCt6X7UP3JZY3uxxXLUBi60WZgOamEhE', 'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': 'a72a24b5-7a4d-4343-b155-e9f49268c595', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-09-01 07:29:54,098 - Response: {'status_code': 200, 'duration': '0:00:00.000995'}
+2024-09-01 07:29:54,099 - 127.0.0.1 - - [01/Sep/2024 07:29:54] "GET /auth/dashboard HTTP/1.1" 200 -
+2024-09-01 07:30:07,313 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/auth/logout', 'headers': {'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NDk3NSwianRpIjoiNjczZWQ3NWMtNjNlMC00MjVhLTlhOTYtMDQzZTFmOTc2Y2MzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjQ5NzUsImNzcmYiOiJiMDRkMjc4NC0zMzRiLTQ0YzctYjA3Zi0xOTkwNjkwZDM5ZDEiLCJleHAiOjE3MjUxNjU4NzV9.PrQi-ash2mWWCt6X7UP3JZY3uxxXLUBi60WZgOamEhE', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '94de4b46-926e-4e6d-b47e-ed92817a5e37', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-09-01 07:30:07,313 - Response: {'status_code': 405, 'duration': '0:00:00.001001'}
+2024-09-01 07:30:07,313 - 127.0.0.1 - - [01/Sep/2024 07:30:07] "[31m[1mGET /auth/logout HTTP/1.1[0m" 405 -
+2024-09-01 07:30:21,047 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/auth/logout', 'headers': {'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NDk3NSwianRpIjoiNjczZWQ3NWMtNjNlMC00MjVhLTlhOTYtMDQzZTFmOTc2Y2MzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjQ5NzUsImNzcmYiOiJiMDRkMjc4NC0zMzRiLTQ0YzctYjA3Zi0xOTkwNjkwZDM5ZDEiLCJleHAiOjE3MjUxNjU4NzV9.PrQi-ash2mWWCt6X7UP3JZY3uxxXLUBi60WZgOamEhE', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '25b48e80-bfc2-42db-8069-3cf8c497d7bd', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-09-01 07:30:21,048 - Response: {'status_code': 405, 'duration': '0:00:00.001002'}
+2024-09-01 07:30:21,048 - 127.0.0.1 - - [01/Sep/2024 07:30:21] "[31m[1mGET /auth/logout HTTP/1.1[0m" 405 -
+2024-09-01 07:31:06,898 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/logout', 'headers': {'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NDk3NSwianRpIjoiNjczZWQ3NWMtNjNlMC00MjVhLTlhOTYtMDQzZTFmOTc2Y2MzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjQ5NzUsImNzcmYiOiJiMDRkMjc4NC0zMzRiLTQ0YzctYjA3Zi0xOTkwNjkwZDM5ZDEiLCJleHAiOjE3MjUxNjU4NzV9.PrQi-ash2mWWCt6X7UP3JZY3uxxXLUBi60WZgOamEhE', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '9ad4a20b-8793-4c72-8f47-67c0b8c0b167', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '0'}, 'body': ''}
+2024-09-01 07:31:06,899 - Response: {'status_code': 200, 'duration': '0:00:00.001998'}
+2024-09-01 07:31:06,899 - 127.0.0.1 - - [01/Sep/2024 07:31:06] "POST /auth/logout HTTP/1.1" 200 -
+2024-09-01 07:37:24,159 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/login', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '90c1caa2-13c4-4eae-a96f-74f3bf2d3fab', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '55'}, 'body': '{\r\n    "user": "banan20",\r\n    "password": "123"\r\n\r\n\r\n}'}
+2024-09-01 07:37:24,162 - Response: {'status_code': 200, 'duration': '0:00:00.003014'}
+2024-09-01 07:37:24,163 - 127.0.0.1 - - [01/Sep/2024 07:37:24] "POST /auth/login HTTP/1.1" 200 -
+2024-09-01 07:37:40,360 - Request: {'method': 'GET', 'url': 'http://127.0.0.1:5000/auth/dashboard', 'headers': {'Authorization': 'Bearer     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NTQ0NCwianRpIjoiNDY3Y2M2MjAtMDMxYS00MTc2LWI0NGEtYzEyOGJjYjdkNGM2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjU0NDQsImNzcmYiOiIwMDVkMWI0ZC0yZDMxLTRmMzYtOTI4Yi0xZjNkNWYzMDExN2UiLCJleHAiOjE3MjUxNjYzNDR9.3vIuueXuHeKIMkvAauDpCwXVI1zhluN-dkisQluUz4k', 'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '121ae12c-4acf-4099-ab8b-da9278381c88', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive'}, 'body': ''}
+2024-09-01 07:37:40,361 - Response: {'status_code': 200, 'duration': '0:00:00.000998'}
+2024-09-01 07:37:40,361 - 127.0.0.1 - - [01/Sep/2024 07:37:40] "GET /auth/dashboard HTTP/1.1" 200 -
+2024-09-01 07:37:55,370 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/logout', 'headers': {'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTE2NTQ0NCwianRpIjoiNDY3Y2M2MjAtMDMxYS00MTc2LWI0NGEtYzEyOGJjYjdkNGM2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImJhbmFuMjAiLCJuYmYiOjE3MjUxNjU0NDQsImNzcmYiOiIwMDVkMWI0ZC0yZDMxLTRmMzYtOTI4Yi0xZjNkNWYzMDExN2UiLCJleHAiOjE3MjUxNjYzNDR9.3vIuueXuHeKIMkvAauDpCwXVI1zhluN-dkisQluUz4k', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '6e5a068b-2f77-4499-a122-11925143ac54', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '0'}, 'body': ''}
+2024-09-01 07:37:55,370 - Response: {'status_code': 200, 'duration': '0:00:00'}
+2024-09-01 07:37:55,370 - 127.0.0.1 - - [01/Sep/2024 07:37:55] "POST /auth/logout HTTP/1.1" 200 -
+2024-09-01 07:38:01,497 - Request: {'method': 'POST', 'url': 'http://127.0.0.1:5000/auth/signup', 'headers': {'Content-Type': 'application/json', 'User-Agent': 'PostmanRuntime/7.41.1', 'Accept': '*/*', 'Postman-Token': '87f187ea-f208-495d-9972-b263bea8d9aa', 'Host': '127.0.0.1:5000', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '93'}, 'body': '{\r\n    "user": "bann1111111110",\r\n    "email": "bsh@gmail.com",\r\n    "password": "123"\r\n\r\n\r\n}'}
+2024-09-01 07:38:01,500 - Response: {'status_code': 409, 'duration': '0:00:00.004002'}
+2024-09-01 07:38:01,501 - 127.0.0.1 - - [01/Sep/2024 07:38:01] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 409 -
